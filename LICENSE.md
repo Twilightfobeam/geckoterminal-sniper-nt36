@@ -1,4 +1,4 @@
-# 
+# MEV-optimized geckoterminal sniper bot | trailing-stop + slippage-control offers the most advanced geckoterminal sniper bot, with trailing-stop and slippage-control. Ideal for
 
 
 
